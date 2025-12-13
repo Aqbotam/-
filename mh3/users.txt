@@ -1,0 +1,9 @@
+Ақбота,123,patient
+Aqbota,123,patient
+Aiym,1234,doctor
+Aqniet,234,patient
+Aiqyn,123456,doctor
+Aqbotam,123456,patient
+Алма,123456,patient
+Қанат,654321,doctor
+Асар,123456,patient

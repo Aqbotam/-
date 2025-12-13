@@ -1,0 +1,7 @@
+username=Алма
+role=patient
+fullname=Калыш Алма
+dob=17-03-2004
+gender=Женский
+phone=87054788888
+address=

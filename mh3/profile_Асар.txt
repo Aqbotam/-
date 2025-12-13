@@ -1,0 +1,7 @@
+username=Асар
+role=patient
+fullname=Асар
+dob=11-12-2025
+gender=Женский
+phone=88888888888
+address=

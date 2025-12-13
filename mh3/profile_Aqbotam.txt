@@ -1,0 +1,7 @@
+role=patient
+fullname=Омар Ақбота
+dob=27.12.2005
+gender=Ж
+phone=87056596793
+email=акбота
+address=

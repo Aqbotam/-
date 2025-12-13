@@ -1,0 +1,6 @@
+username=Қанат
+role=doctor
+fullname=Сауытов Қанат
+specialty=Эндокринолог
+phone=87778884433
+address=
